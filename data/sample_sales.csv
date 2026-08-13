@@ -1,0 +1,33 @@
+order_date,order_id,customer,country,product,category,quantity,unit_price,stock
+2025-01-06,ORD-1001,Nova Retail,Turkey,Urban Backpack,Bags,3,69.90,42
+2025-01-11,ORD-1002,Atlas Market,Germany,Essential Hoodie,Apparel,5,54.90,35
+2025-01-18,ORD-1003,North & Co,United Kingdom,Leather Card Holder,Accessories,8,24.90,67
+2025-01-27,ORD-1004,Luna Store,France,Everyday Sneakers,Footwear,2,89.90,24
+2025-02-03,ORD-1005,Nova Retail,Turkey,Minimal Watch,Accessories,4,119.00,18
+2025-02-09,ORD-1006,Studio Seven,Netherlands,Canvas Tote,Bags,10,29.90,53
+2025-02-15,ORD-1007,Atlas Market,Germany,Essential Hoodie,Apparel,7,54.90,28
+2025-02-24,ORD-1008,Maison Rue,France,Everyday Sneakers,Footwear,3,89.90,21
+2025-03-02,ORD-1009,North & Co,United Kingdom,Urban Backpack,Bags,5,69.90,37
+2025-03-10,ORD-1010,Luna Store,France,Classic T-Shirt,Apparel,12,26.90,74
+2025-03-18,ORD-1011,Nova Retail,Turkey,Leather Card Holder,Accessories,9,24.90,58
+2025-03-27,ORD-1012,Studio Seven,Netherlands,Minimal Watch,Accessories,3,119.00,15
+2025-04-04,ORD-1013,Atlas Market,Germany,Everyday Sneakers,Footwear,6,89.90,15
+2025-04-12,ORD-1014,Maison Rue,France,Canvas Tote,Bags,11,29.90,42
+2025-04-19,ORD-1015,North & Co,United Kingdom,Classic T-Shirt,Apparel,15,26.90,59
+2025-04-28,ORD-1016,Luna Store,France,Urban Backpack,Bags,4,69.90,33
+2025-05-05,ORD-1017,Nova Retail,Turkey,Essential Hoodie,Apparel,8,54.90,20
+2025-05-13,ORD-1018,Studio Seven,Netherlands,Leather Card Holder,Accessories,13,24.90,45
+2025-05-21,ORD-1019,Atlas Market,Germany,Minimal Watch,Accessories,5,119.00,10
+2025-05-29,ORD-1020,Maison Rue,France,Everyday Sneakers,Footwear,4,89.90,11
+2025-06-06,ORD-1021,North & Co,United Kingdom,Canvas Tote,Bags,14,29.90,28
+2025-06-14,ORD-1022,Luna Store,France,Classic T-Shirt,Apparel,18,26.90,41
+2025-06-22,ORD-1023,Nova Retail,Turkey,Urban Backpack,Bags,7,69.90,26
+2025-06-30,ORD-1024,Studio Seven,Netherlands,Essential Hoodie,Apparel,9,54.90,11
+2025-07-07,ORD-1025,Atlas Market,Germany,Leather Card Holder,Accessories,16,24.90,29
+2025-07-15,ORD-1026,Maison Rue,France,Minimal Watch,Accessories,6,119.00,6
+2025-07-23,ORD-1027,North & Co,United Kingdom,Everyday Sneakers,Footwear,5,89.90,6
+2025-07-31,ORD-1028,Luna Store,France,Canvas Tote,Bags,17,29.90,11
+2025-08-08,ORD-1029,Nova Retail,Turkey,Classic T-Shirt,Apparel,20,26.90,21
+2025-08-16,ORD-1030,Studio Seven,Netherlands,Urban Backpack,Bags,8,69.90,18
+2025-08-24,ORD-1031,Atlas Market,Germany,Essential Hoodie,Apparel,11,54.90,8
+2025-08-29,ORD-1032,Maison Rue,France,Minimal Watch,Accessories,7,119.00,3
