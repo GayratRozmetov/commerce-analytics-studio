@@ -1,3 +1,7 @@
+[![Commerce Analytics Studio](commerce-analytics-studio-cover.png)](https://commerce-analytics-studio-bn2k6rmi3v6zpbv5mpt5sj.streamlit.app/)
+
+[![Open Live Dashboard](https://img.shields.io/badge/OPEN_LIVE_DASHBOARD-B7EF24?style=for-the-badge&logo=streamlit&logoColor=151714&labelColor=151714)](https://commerce-analytics-studio-bn2k6rmi3v6zpbv5mpt5sj.streamlit.app/)
+
 # Commerce Analytics Studio
 
 A Python-powered sales analytics application that transforms CSV and Excel data into actionable e-commerce insights.
